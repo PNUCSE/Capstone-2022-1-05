@@ -13,7 +13,8 @@
 2. 문형정보 기반의 품사 규칙을 이용한 한국어 언어모델 개발
 
 ### **Evaluation**
-![cross entropy](https://user-images.githubusercontent.com/82591396/195675312-74d3c29c-343f-487a-a9f9-856dbf7d63db.png)
+![cross entropy](https://user-images.githubusercontent.com/82591396/195675312-74d3c29c-343f-487a-a9f9-856dbf7d63db.png) \n
+
 예측모형은 실제 분포인 q 를 모르고 모델링을 하여 q 분포를 예측하고자 하는 것입니다.
 예측 모델링을 통해 구한 분포 p(x)와 실제 분포인 q(x)의 차이로 실제값과 예측값의 차이를 표현할 수 있습니다.
 cross entropy의 결과값은 불확실성으로 낮을 수록 실제 분포를 잘 예측한 것으로 판단할 수 있습니다.
