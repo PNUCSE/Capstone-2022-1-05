@@ -23,9 +23,9 @@ cross entropy의 결과값은 불확실성으로 낮을 수록 실제 분포를 
 
 ## 2. 팀소개
 
-강혜빈 hv9739@pusan.ac.kr (문형정보탐색, 데이터 전처리, attention score 정리)
+강혜빈 hv9739@pusan.ac.kr (문형정보탐색, 데이터 전처리, 사전학습모델 input ids 생성)
 
-구채원 gcw127@pusan.ac.kr (문형정보탐색, 데이터 전처리, attention score 정리)
+구채원 gcw127@pusan.ac.kr (문형정보탐색, 데이터 전처리, 사전학습모델 input ids 생성)
 
 조소연, thdus8526@pusan.ac.kr (문형정보탐색, 데이터 전처리, attention score 정리)
 
